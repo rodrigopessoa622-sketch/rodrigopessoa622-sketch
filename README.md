@@ -38,4 +38,4 @@ Este perfil será usado para organizar:
 - evolução prática da Interiogi
 
 ## 🔗 Conexões
-- LinkedIn: www.linkedin.com/in/rodrigo-ramos-pessoa-7a30193b1/
+- LinkedIn: [Rodrigo Ramos Pessoa](https://www.linkedin.com/in/rodrigo-ramos-pessoa-7a30193b1/)
