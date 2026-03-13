@@ -1,4 +1,4 @@
-# Interiogi | Rodrigo Ramos Pessoa
+# Rodrigo Ramos Pessoa | Interiogi
 
 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, desenvolvendo projetos em **automação iOS**, **IA aplicada**, **experiência do usuário (UX)** e **sistemas digitais centrados no humano**.
 
